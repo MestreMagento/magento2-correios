@@ -18,9 +18,7 @@ Integramos com o Correios o cálculo de frete com e sem contrato, modo offline, 
 
 ## Testado em Diversos Temas e Checkouts
 
-<img src="https://www.modulomagento.com.br/media/wysiwyg/pix-magento2.jpg" />
-
-Otimizado para facilitar ao máximo o entendimento do cliente e assim aumentar a conversão nas vendas.
+A compatibilidade do módulo Correios Magento 2 foi amplamente testada com os principais checkouts do Mundo. Nossa equipe de especialistas vai analisar seu checkout e garantir que nosso módulo funcionará com toda capacidade.
 
 ## Compatível com as versões
 
